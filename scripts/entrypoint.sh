@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/local/bin/jupyter lab --config=./conf/jupyter.py
+voila —-port=$PORT —-no-browser nb2pdf.ipynb
