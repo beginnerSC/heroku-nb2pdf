@@ -1,3 +1,3 @@
 #!/bin/bash
 
-voila —-port=$PORT —-no-browser nb2pdf.ipynb
+voila nb2pdf.ipynb
